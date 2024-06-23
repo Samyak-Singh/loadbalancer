@@ -25,7 +25,7 @@ This project implements a load balancer that distributes requests among multiple
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/loadbalancer/loadbalancer.git
+git clone https://github.com/Samyak-Singh/loadbalancer.git
 cd loadbalancer
 ```
 
